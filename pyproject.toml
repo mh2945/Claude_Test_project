@@ -1,0 +1,11 @@
+[project]
+name = "facegate"
+version = "0.1.0"
+description = "OpenCV 얼굴 검출 결과에 대한 순수 로직 품질 게이트 - Claude Code Skill/Hook 검증용"
+requires-python = ">=3.10"
+dependencies = ["numpy", "opencv-python"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
