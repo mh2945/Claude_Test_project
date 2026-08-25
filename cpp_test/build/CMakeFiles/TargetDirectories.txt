@@ -1,0 +1,12 @@
+/Users/ikjang/Documents/hello-claude/build/CMakeFiles/test.dir
+/Users/ikjang/Documents/hello-claude/build/CMakeFiles/edit_cache.dir
+/Users/ikjang/Documents/hello-claude/build/CMakeFiles/rebuild_cache.dir
+/Users/ikjang/Documents/hello-claude/build/src/CMakeFiles/alcv.dir
+/Users/ikjang/Documents/hello-claude/build/src/CMakeFiles/test.dir
+/Users/ikjang/Documents/hello-claude/build/src/CMakeFiles/edit_cache.dir
+/Users/ikjang/Documents/hello-claude/build/src/CMakeFiles/rebuild_cache.dir
+/Users/ikjang/Documents/hello-claude/build/tests/CMakeFiles/status_test.dir
+/Users/ikjang/Documents/hello-claude/build/tests/CMakeFiles/status_abi_test.dir
+/Users/ikjang/Documents/hello-claude/build/tests/CMakeFiles/test.dir
+/Users/ikjang/Documents/hello-claude/build/tests/CMakeFiles/edit_cache.dir
+/Users/ikjang/Documents/hello-claude/build/tests/CMakeFiles/rebuild_cache.dir

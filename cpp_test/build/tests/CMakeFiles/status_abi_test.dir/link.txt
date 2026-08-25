@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/status_abi_test.dir/status_abi_test.cpp.o -o status_abi_test  ../src/libalcv.a
