@@ -1,0 +1,2 @@
+/usr/bin/ar qc libalcv.a CMakeFiles/alcv.dir/status.cpp.o
+/usr/bin/ranlib libalcv.a

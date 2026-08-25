@@ -1,0 +1,35 @@
+Start testing: Aug 25 11:50 KST
+----------------------------------------------------------
+1/2 Testing: status_test
+1/2 Test: status_test
+Command: "/Users/ikjang/Documents/hello-claude/build/tests/status_test"
+Directory: /Users/ikjang/Documents/hello-claude/build/tests
+"status_test" start time: Aug 25 11:50 KST
+Output:
+----------------------------------------------------------
+PASS status_test
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"status_test" end time: Aug 25 11:50 KST
+"status_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: status_abi_test
+2/2 Test: status_abi_test
+Command: "/Users/ikjang/Documents/hello-claude/build/tests/status_abi_test"
+Directory: /Users/ikjang/Documents/hello-claude/build/tests
+"status_abi_test" start time: Aug 25 11:50 KST
+Output:
+----------------------------------------------------------
+PASS status_abi_test
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"status_abi_test" end time: Aug 25 11:50 KST
+"status_abi_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 25 11:50 KST

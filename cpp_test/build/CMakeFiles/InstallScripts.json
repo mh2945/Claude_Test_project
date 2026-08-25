@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ikjang/Documents/hello-claude/build/cmake_install.cmake",
+		"/Users/ikjang/Documents/hello-claude/build/src/cmake_install.cmake",
+		"/Users/ikjang/Documents/hello-claude/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
